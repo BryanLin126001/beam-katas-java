@@ -1,0 +1,17 @@
+**/out
+**/build
+**/.gradle/*
+*.tmproj
+*.log
+*.DS_Store
+lib/*
+fw/*
+.gradletasknamecache
+.idea
+*.iml
+*.ipr
+*.iws
+/.project
+*/src/generated/
+*.mmdb
+mock/
